@@ -1,0 +1,8 @@
+DIARIO ELETTROSTRUMENTISTI - PROTOTIPO V2
+Caricare index.html e manifest.json nella radice di un repository GitHub Pages.
+Aprire la pagina pubblicata in Chrome.
+DATI: solo salvataggio locale nel browser. Nessuna sincronizzazione tra utenti. Usare solo dati fittizi per le prove.
+La dettatura vocale è stata rimossa.
+Gli interventi e le perdite sono visibili nel diario e nella ricerca storico.
+La foto della perdita viene rimossa quando la segnalazione viene chiusa.
+Non inserire credenziali o informazioni riservate aziendali.
